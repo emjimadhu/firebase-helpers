@@ -1,0 +1,24 @@
+{
+  "name": "@emjimadhu/firebase-helpers",
+  "version": "1.1.0",
+  "description": "A Tiny Helper utility for Firebase.",
+  "main": "index.js",
+  "scripts": {
+    "push": "bash git.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emjimadhu/firebase-helpers.git"
+  },
+  "keywords": [
+    "firebase",
+    "helpers",
+    "js"
+  ],
+  "author": "Em Ji Madhu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emjimadhu/firebase-helpers/issues"
+  },
+  "homepage": "https://github.com/emjimadhu/firebase-helpers#readme"
+}
